@@ -5,35 +5,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-    .logo{
-        text-align: center;
-    }
+        .logo{
+            text-align: center;
+        }
 
-    .logo_img{
-        display:inline-block;
-        width:10em;
-        height:8em;
+        .logo_img{
+            display:inline-block;
+            width:10em;
+            height:8em;
 
-    }
+        }
 
-    .logo_name{
-        display:inline-block;
-        font-size:3em;
-        text-align:center;
-        font-style: italic;
-        font-weight: 650;
-        color:limegreen;
-        margin-bottom: 0.5em;
-    }
-    p{
-        color:limegreen;
-        text-align: center;
-        font-size: 2em;
-        font-style: italic;
-    }
-    .container{
-        margin-top:10em;
-    }
+        .logo_name{
+            display:inline-block;
+            font-size:3em;
+            text-align:center;
+            font-style: italic;
+            font-weight: 650;
+            color:limegreen;
+            margin-bottom: 0.5em;
+        }
+        p{
+            color:limegreen;
+            text-align: center;
+            font-size: 2em;
+            font-style: italic;
+        }
+        .container{
+            margin-top:10em;
+        }
     </style>
 </head>
 <body>
