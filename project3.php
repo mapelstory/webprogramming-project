@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>finish</title>
     <style>
         .logo{
             text-align: center;
@@ -36,6 +36,7 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <div class="logo">
@@ -47,4 +48,5 @@
         <p>Thank you for using our site!</p>
     </div>
 </body>
+
 </html>
